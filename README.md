@@ -1,2 +1,0 @@
-# AplikasiKonversiSuhu
-Tugas 2
